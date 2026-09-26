@@ -2,6 +2,10 @@
 
 I'm learning software development through hands-on work with open-source projects.
 
+## Established specialization
+
+**AutoHotkey specialist** with extensive experience building commercial Windows desktop applications, automation workflows, graphical interfaces, licensing systems, and technical utilities.
+
 ## What I'm working on
 
 - Contributing fixes and accessibility improvements to [Open Mercato](https://github.com/open-mercato/open-mercato)
@@ -21,8 +25,6 @@ I built and operated an independent commercial software business as a solo found
 - Integrated and managed Stripe, PayPal, and cryptocurrency payment options
 - Provided technical support across Windows, VMware, networking, licensing, installation, and compatibility issues
 - Ran the business's day-to-day software, support, payment, website, and operational systems
-
-You can see more of my background and projects at [samuelbostock.com](https://samuelbostock.com/).
 
 ## Technologies I'm learning
 
