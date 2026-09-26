@@ -15,7 +15,7 @@ I'm learning software development through hands-on work with open-source project
 
 ## Previous experience
 
-I built and operated an independent commercial software business as a solo founder for nearly ten years. During that time, I:
+I built and operated an independent commercial software business as a solo founder for nearly eleven years. During that time, I:
 
 - Developed and maintained 12 commercial Windows products
 - Supported approximately 20,000 customers and managed a community of more than 14,500 members
