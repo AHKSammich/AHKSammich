@@ -1,40 +1,51 @@
-# Hi, I'm AHKSammich 👋
+# Samuel Bostock
 
-I'm learning software development through hands-on work with open-source projects.
+I work across technical support, product QA, WordPress/WooCommerce support, and technical operations. I have more than 10 years of hands-on experience building, supporting, testing, and troubleshooting software for an international customer base.
 
-## Established specialization
+Australian citizen based in Thailand and available for genuinely remote worldwide employment or contract work.
 
-**AutoHotkey specialist** with extensive experience building commercial Windows desktop applications, automation workflows, graphical interfaces, licensing systems, and technical utilities.
+## Current open-source work
 
-## What I'm working on
+I contribute to [Open Mercato](https://github.com/open-mercato/open-mercato), an open-source commerce and ERP platform, across:
 
-- Contributing fixes and accessibility improvements to [Open Mercato](https://github.com/open-mercato/open-mercato)
-- Reproducing bugs and writing clear reports
-- Building and testing focused fixes
-- Reviewing pull requests and learning from real codebases
+- Manual and regression testing
+- Bug reproduction, investigation, and issue triage
+- Pull request and specification review
+- Clear technical findings and documentation
+- Targeted implementation contributions
 
-## Previous experience
+Selected contribution: [improve decimal-price handling and related validation](https://github.com/open-mercato/open-mercato/pull/6704).
 
-I built and operated an independent commercial software business as a solo founder for nearly eleven years. During that time, I:
+## Commercial software experience
 
-- Developed and maintained 12 commercial Windows products
+From October 2015 to August 2026, I founded and operated a commercial Windows automation software business serving an international online gaming community.
+
+- Released and maintained 12 commercial Windows products
 - Supported approximately 20,000 customers and managed a community of more than 14,500 members
-- Managed the full product lifecycle, including feature planning, bug fixes, updates, and compatibility support
-- Packaged, protected, licensed, signed, and distributed desktop software
-- Built and maintained WordPress and WooCommerce systems for products, orders, and customer delivery
-- Integrated and managed Stripe, PayPal, and cryptocurrency payment options
-- Provided technical support across Windows, VMware, networking, licensing, installation, and compatibility issues
-- Ran the business's day-to-day software, support, payment, website, and operational systems
+- Diagnosed Windows, VMware, networking, licensing, installation, compatibility, and application issues
+- Delivered support through written guidance, community channels, and remote desktop tools
+- Built and administered a WordPress and WooCommerce storefront with Stripe and PayPal workflows
+- Managed product planning, manual testing, releases, licensing, documentation, customer feedback, and daily technical operations
 
-## Technologies I'm learning
+## Core skills
 
-- TypeScript and React
-- Git and GitHub
-- Automated testing
-- Web accessibility
-- CRM, ERP, and commerce architecture
-- AI-assisted development workflows
+- **Technical support:** troubleshooting, customer communication, remote support, documentation
+- **Product QA:** manual testing, regression testing, bug reproduction, issue triage, PR and specification review
+- **Web commerce:** WordPress, WooCommerce, Stripe, PayPal, website administration
+- **Software and tools:** AutoHotkey, TypeScript, React, Git, GitHub
 
-## Current focus
+## Roles of interest
 
-I'm exploring Open Mercato feature by feature, connecting what I see in the product to its implementation, and turning verified problems into useful open-source contributions.
+- Technical Support / SaaS or Product Support
+- Manual QA / Product QA
+- Technical Customer Success
+- WordPress / WooCommerce Support
+- Technical Operations
+- Suitable junior-to-mid web or software roles
+
+## Links
+
+- [Portfolio](https://samuelbostock.com)
+- [Resume](https://samuelbostock.com/wp-content/uploads/2026/10/Samuel-Bostock-Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/samuel-bostock-74533b43a/)
+- [Email](mailto:sambostock@hotmail.com)
