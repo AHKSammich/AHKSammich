@@ -1,51 +1,37 @@
 # Samuel Bostock
 
-I work across technical support, product QA, WordPress/WooCommerce support, and technical operations. I have more than 10 years of hands-on experience building, supporting, testing, and troubleshooting software for an international customer base.
+I build and ship software with coding agents — designing the specs, quality gates and review loops that let agents produce code that holds up in a real enterprise codebase. Australian, based in Thailand, working remotely (UTC+7).
 
-Australian citizen based in Thailand and available for genuinely remote worldwide employment or contract work.
+## Open Mercato
 
-## Current open-source work
+I'm one of the most active outside contributors to [Open Mercato](https://github.com/open-mercato/open-mercato), the open-source AI-engineering framework for CRM/ERP and commerce:
 
-I contribute to [Open Mercato](https://github.com/open-mercato/open-mercato), an open-source commerce and ERP platform, across:
+- **34 merged pull requests** (top 15 of 143 contributors by merged PRs), with more approved and in the merge queue
+- Mostly **security and correctness fixes**: authentication and session handling, organization/tenant scoping, webhook hardening, payment-gateway webhooks, AI-agent safeguards, forms and portal access, concurrency and undo/redo integrity
+- Fixes ship with regression tests (unit and integration, plus Playwright where the change is user-visible), upgrade notes for behaviour changes, and follow-up issues for known limitations
 
-- Manual and regression testing
-- Bug reproduction, investigation, and issue triage
-- Pull request and specification review
-- Clear technical findings and documentation
-- Targeted implementation contributions
+## How I work: an agent-driven delivery pipeline
 
-Selected contribution: [improve decimal-price handling and related validation](https://github.com/open-mercato/open-mercato/pull/6704).
+My Open Mercato work runs through a pipeline I designed on top of [Cezar](https://github.com/open-mercato/cezar) and Claude Code:
 
-## Commercial software experience
+- **Spec templates** for each kind of work — fixes, review responses, self-QA, scouting, verification — encoding the repo's rules (AGENTS.md, backward compatibility, i18n, test conventions)
+- **An independent quality gate** that re-checks every "ready" claim before anything is published: exact commit pushed, clean tree, eslint, i18n, repo-wide guards compared against the develop baseline, targeted tests, privacy checks on PR text
+- **Self-QA** in a real browser under the project's documented self-QA process, with written evidence
+- **Scouting and verification**: agents find candidate defects, a separate step reproduces them with a failing test and drafts the issue, and only verified bugs are filed — together with their fix
+- **Review loops**: findings are fixed automatically, conflicts kept resolved, reviewers kept informed
 
-From October 2015 to August 2026, I founded and operated a commercial Windows automation software business serving an international online gaming community.
+## Before Open Mercato
 
-- Released and maintained 12 commercial Windows products
-- Supported approximately 20,000 customers and managed a community of more than 14,500 members
-- Diagnosed Windows, VMware, networking, licensing, installation, compatibility, and application issues
-- Delivered support through written guidance, community channels, and remote desktop tools
-- Built and administered a WordPress and WooCommerce storefront with Stripe and PayPal workflows
-- Managed product planning, manual testing, releases, licensing, documentation, customer feedback, and daily technical operations
+From 2015 to 2026 I founded and ran a commercial Windows automation software business:
 
-## Core skills
+- Built, released and maintained 12 commercial products
+- Supported roughly 20,000 customers and a community of 14,500+ members — requirements, troubleshooting, releases and documentation, end to end
+- Ran the storefront and payments (WordPress/WooCommerce, Stripe, PayPal), licensing and day-to-day operations
 
-- **Technical support:** troubleshooting, customer communication, remote support, documentation
-- **Product QA:** manual testing, regression testing, bug reproduction, issue triage, PR and specification review
-- **Web commerce:** WordPress, WooCommerce, Stripe, PayPal, website administration
-- **Software and tools:** AutoHotkey, TypeScript, React, Git, GitHub
+## Skills
 
-## Roles of interest
-
-- Technical Support / SaaS or Product Support
-- Manual QA / Product QA
-- Technical Customer Success
-- WordPress / WooCommerce Support
-- Technical Operations
-- Suitable junior-to-mid web or software roles
+TypeScript · React · Next.js · PostgreSQL · Playwright · Jest · Git/GitHub · AI coding agents (Claude Code, Cezar) · agent workflow and quality-gate design · security-focused code review · customer-facing support and requirements
 
 ## Links
 
-- [Portfolio](https://samuelbostock.com)
-- [Resume](https://samuelbostock.com/wp-content/uploads/2026/10/Samuel-Bostock-Resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/samuel-bostock-74533b43a/)
-- [Email](mailto:sambostock@hotmail.com)
+[Portfolio](https://samuelbostock.com) · [Resume](https://samuelbostock.com/wp-content/uploads/2026/10/Samuel-Bostock-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/samuel-bostock-74533b43a/) · [Email](mailto:sambostock@hotmail.com)
