@@ -4,9 +4,9 @@ I build and ship software with coding agents — designing the specs, quality ga
 
 ## Open Mercato
 
-I'm one of the most active outside contributors to [Open Mercato](https://github.com/open-mercato/open-mercato), the open-source AI-engineering framework for CRM/ERP and commerce:
+I'm a top-10 contributor to [Open Mercato](https://github.com/open-mercato/open-mercato), the open-source AI-engineering framework for CRM/ERP and commerce:
 
-- **34 merged pull requests** (top 15 of 143 contributors by merged PRs), with more approved and in the merge queue
+- **45 merged pull requests** (10th of 143 contributors by merged PRs), with more approved and in the merge queue
 - Mostly **security and correctness fixes**: authentication and session handling, organization/tenant scoping, webhook hardening, payment-gateway webhooks, AI-agent safeguards, forms and portal access, concurrency and undo/redo integrity
 - Fixes ship with regression tests (unit and integration, plus Playwright where the change is user-visible), upgrade notes for behaviour changes, and follow-up issues for known limitations
 
